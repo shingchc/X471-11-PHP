@@ -1,0 +1,9 @@
+alice;dog123;0
+bob;cat345;1
+charlie;**fun**;0
+derek;derek123;1
+eason;eason456;0
+Fred;Fred789;0
+Tom;tom123;0
+winnie;1234;0
+adrian;adrian610;1

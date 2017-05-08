@@ -1,0 +1,14 @@
+Moonlight;Best Picture;Adele Romanski, Dede Gardner, and Jeremy Kleiner;$5.99
+Arrival;Best Picture;Shawn Levy, Dan Levine, Aaron Ryder, and David Linde;$6.99
+Fences;Best Picture;Scott Rudin, Denzel Washington, and Todd Black;$7.99
+Hacksaw Ridge;Best Picture;Bill Mechanic and David Permut;$8.99
+Hell or High Water;Best Picture;Carla Hacken and Julie Yorn;$9.99
+Hidden Figures;Best Picture;Donna Gigliotti, Peter Chernin, Jenno Topping, Pharrell Williams, and Theodore Melfi;$10.99
+La La Land;Best Picture;Fred Berger, Jordan Horowitz, and Marc Platt;$11.99
+Lion;Best Picture;Emile Sherman, Iain Canning, and Angie Fielder;$12.99
+Manchester by the Sea;Best Picture;Matt Damon, Kimberly Steward, Chris Moore, Lauren Beck, and Kevin J. Walsh;$13.99
+O.J.: Made in America;Best Documentary;Ezra Edelman and Caroline Waterlow;$1.99
+Fire at Sea;Best Documentary;Gianfranco Rosi and Donatella Palermo;$2.99
+I Am Not Your Negro;Best Documentary;Raoul Peck, Rémi Grellety, and Hébert Peck;$3.99
+Life, Animated;Best Documentary;Roger Ross Williams and Julie Goldman;$4.99
+13th;Best Documentary;Ava DuVernay, Spencer Averick, and Howard Barish;$5.99
